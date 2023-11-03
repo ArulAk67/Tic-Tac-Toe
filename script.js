@@ -3,7 +3,7 @@ const statusTxt=document.querySelector('#status');
 const btnRestart=document.querySelector('#restart');
 let x="<img src='image/X.png'>";
 let o="<img src='image/O.png'>";
-
+let a="";
 const win=[
   [0,1,2],
   [3,4,5],
